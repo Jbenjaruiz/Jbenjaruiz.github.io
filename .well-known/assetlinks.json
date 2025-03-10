@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example.deeplink_cookbook",
+    "package_name": "com.agriconecta.agcta_smallholder_farmer",
     "sha256_cert_fingerprints":
-    ["FF:2A:CF:7B:DD:CC:F1:03:3E:E8:B2:27:7C:A2:E3:3C:DE:13:DB:AC:8E:EB:3A:B9:72:A1:0E:26:8A:F5:EC:AF"]
+    ["F2:85:DE:51:14:55:32:BE:A6:26:BB:78:22:C6:DF:26:FE:01:4D:E5:9D:08:5A:69:90:4E:87:21:CC:5A:94:AC"]
   }
 }]
